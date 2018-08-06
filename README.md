@@ -1,6 +1,6 @@
 # Heroku buildpack: PHP [![Build Status](https://travis-ci.org/heroku/heroku-buildpack-php.svg?branch=master)](https://travis-ci.org/heroku/heroku-buildpack-php)
 
-Follow this link to customize with a php extension
+Follow this link to customize with a php extension https://www.sitepoint.com/install-custom-php-extensions-heroku/
 
 ![php](https://cloud.githubusercontent.com/assets/51578/8882982/73ea501a-3219-11e5-8f87-311e6b8a86fc.jpg)
 
