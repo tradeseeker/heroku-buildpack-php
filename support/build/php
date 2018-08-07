@@ -172,6 +172,7 @@ rm -rf ${OUT_PREFIX}/php/man ${OUT_PREFIX}/lib/php/extensions/*/*.a
 
 echo "-----> Preparing PECL..."
 ${OUT_PREFIX}/bin/pecl channel-update pecl.php.net
+${OUT_PREFIX}/bin/pecl install trader
 
 echo "-----> Generating manifest..."
 curl -sS https://getcomposer.org/installer | php
